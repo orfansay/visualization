@@ -30,7 +30,8 @@
 Source: https://data.ontario.ca/dataset/college-enrolment/resource/07fdeefd-fe44-4df8-bd7d-5419a79f90ec
 
 # The link to Excel datasheet and visualization
-https://utoronto-my.sharepoint.com/:x:/r/personal/sayeed_orfan_mail_utoronto_ca/Documents/college_enrolment_headcount_2024-25.xlsx?d=wcba762b44cc5459f8e5162e37297fdb2&csf=1&web=1&e=cDLNvW 
+https://docs.google.com/spreadsheets/d/1A1o1Ji5HSJWMSc5xbqXHDIBfZtLSHaA5rH-vpvcZd5Q/edit?usp=sharing
+
 
 # Responses to questions for visualization 1
 
@@ -41,7 +42,7 @@ The data was analyzed and visualized in Excel in a structured table format (year
 Source: Source: https://data.ontario.ca/dataset/college-enrolment/resource/07fdeefd-fe44-4df8-bd7d-5419a79f90ec
 
 # The Link to Excel datasheet and visualization (I have include my chart generated in Python in Excel file named "Visualization 2)
-https://utoronto-my.sharepoint.com/:x:/r/personal/sayeed_orfan_mail_utoronto_ca/Documents/college_enrolment_headcount_2024-25.xlsx?d=wcba762b44cc5459f8e5162e37297fdb2&csf=1&web=1&e=cDLNvW 
+https://docs.google.com/spreadsheets/d/1A1o1Ji5HSJWMSc5xbqXHDIBfZtLSHaA5rH-vpvcZd5Q/edit?usp=sharing
 
 # Responses to questions for visualization 2
 
