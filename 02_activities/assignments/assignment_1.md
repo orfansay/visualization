@@ -16,9 +16,14 @@
 To design good data visualizations, we need to consider three major principles: aesthetic, substantive and perceptual. From an aesthetic, visualization should be pleasing to look at while from a substantive point of view, visualization should accurately and truthfully present the data. from a perceptual perspective, the visualization should convey the intended message, and the audience should understand it. 
 
 ## Lesson 2 functioning code and comments 
-# Code
+# Codes
 fig, ax = plt.subplots(figsize=(5, 3))
 ax.hist(y)
+
+ax.grid(axis = 'y')
+ax.grid(axis = ‘y’
+, color = "blue"
+, linewidth = 2, linestyle = '-.')
 
 # Note
 A matplotlib is an open source package for data visualization in Python.
