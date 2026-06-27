@@ -10,6 +10,53 @@
 
 - When there are individual or group activities in submodules, make notes of answers and key points from discussions
 - Following each lesson with code, submit a document (either .py or a Jupyter notebook) containing the functioning code from that day's lesson, along with any written notes or comments.
+## Lesson 1 functioning code and comments 
+# Notes 
+
+To design good data visualizations, we need to consider three major principles: aesthetic, substantive and perceptual. From an aesthetic, visualization should be pleasing to look at while from a substantive point of view, visualization should accurately and truthfully present the data. from a perceptual perspective, the visualization should convey the intended message, and the audience should understand it. 
+
+## Lesson 2 functioning code and comments 
+# Codes
+fig, ax = plt.subplots(figsize=(5, 3))
+ax.hist(y)
+
+ax.grid(axis = 'y')
+ax.grid(axis = ‘y’
+, color = "blue"
+, linewidth = 2, linestyle = '-.')
+
+# Note
+A matplotlib is an open source package for data visualization in Python.
+
+## Lesson 3 Functioning code and comments 
+
+# Notes 
+Reproducibility is the process of generating the same results, if the steps and techniques used in a dataset or a proportion of a dataset, are available for other researchers. Reprodicibility is ethical and it enhances the credibility of a research project. It is helpful to include our final code and the revisions we made, when we started coding and when we ended and what decisions we made when we coded. We we comment out our codes, we need to be descriptive and plain; use language that is understable to those in our fields.  There are four major principles for repprodicibility: findability, accessibility, interoperability and reusability. 
+ 
+## Lesson 4 Functioning code and comments 
+# code
+fig, ax = plt.subplots(figsize=(5, 3))
+ax.plot(x,y1)
+ax.plot(x,y2)
+fig.show()
+
+font1 = {' family':'serif'
+,
+'color':'indigo'}
+fig, ax = plt.subplots(figsize=(5, 3))
+ax.scatter(x,y1, label = "Person 1")
+ax.scatter(x,y2, label = "Person 2")
+ax.legend(loc='lower right')
+plt.xlabel('Shiny New X Axis!'
+, fontsize = 18, fontdict = font1)
+
+# Notes 
+Data visualization has multiple purposes including persuading, comarping, evaluating and exploring. It should consider the audience. The audience can be any group of individuals, including children, adults, specialists including doctors, professors or engineers. Furthermore, data visualization can take place through various media including print, web and posters. 
+
+## Lesson 5 Functioning code and comments 
+# Notes
+Effective data visualization for advocacy purposes need to use three modes of persuasion suggested by Aristotle. The first is rational appeal, based on which, providing the audience with facts will allow them to make the right conclusion about an issue. While rational appeal evokes the audience's moral values, enoptional appeal intends to make people feel empathy and commpassionate and build on these feelings to advocate for a particular issue. 
+
 
 ### Why am I doing this assignment?:
 
